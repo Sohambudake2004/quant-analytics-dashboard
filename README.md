@@ -65,3 +65,8 @@ with minimal changes to the existing codebase.
 ### 1. Install dependencies
 
 pip install -r requirements.txt
+
+### 2. Start the application
+
+streamlit run app.py
+
